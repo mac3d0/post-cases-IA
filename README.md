@@ -1,2 +1,2 @@
-# post-cases-IA
-Uso de IAs para casos de testes de segurança.
+## Rafael Macedo - https://instagram.com/PentestWithAI
+### Neste repositório você encontra informações de como usar IAs para redteam.
