@@ -1,16 +1,14 @@
 # post-cases-IA
 
-Série de estudos de caso sobre o **uso de Inteligência Artificial (LLMs e agentes) aplicada a Red Team e testes de segurança ofensiva**. Cada pasta datada reúne um post prático — conceito, código e demonstração — explorando como modelos como Gemini e Claude podem apoiar reconhecimento, análise e automação em engajamentos autorizados.
+Uma série de estudos de caso sobre usar Inteligência Artificial em Red Team e testes de segurança ofensiva. Cada pasta com data traz um post prático, com conceito, código e demonstração, mostrando como modelos como Gemini e Claude ajudam no reconhecimento, na análise e na automação dentro de engajamentos autorizados.
 
-## Temas abordados
+## O que você encontra aqui
 
-- Model Context Protocol (MCP) e integração de ferramentas ofensivas com LLMs
-- Automação de reconhecimento (ex.: `subfinder`, `nuclei`) orquestrada por agentes
-- Uso de IA em análise de vulnerabilidades e apoio a relatórios técnicos
+Integração de ferramentas ofensivas com LLMs usando Model Context Protocol. Automação de reconhecimento com subfinder e nuclei orquestrados por agentes. E o uso de IA como apoio na análise de vulnerabilidades e na escrita de relatórios técnicos.
 
-## Organização
+## Como está organizado
 
-O repositório é organizado por data (`DD-MM-AAAA`), cada uma com seu próprio `README.md` e, quando aplicável, código e `requirements.txt`.
+Cada post fica numa pasta com o formato DD-MM-AAAA e tem o seu próprio README. Quando o post tem código, o script e o requirements.txt ficam na mesma pasta.
 
 ```bash
 cd 06-04-2026
@@ -19,8 +17,10 @@ pip install -r requirements.txt
 
 ## Aviso
 
-Todo o conteúdo é publicado para **fins educacionais e de pesquisa**, destinado a ambientes próprios ou a engajamentos com autorização formal. Não utilize estas técnicas contra sistemas para os quais você não possui permissão explícita por escrito.
+Todo o conteúdo é para estudo e pesquisa, pensado para o seu próprio ambiente ou para engajamentos com autorização formal por escrito. Não use nada disso contra sistemas que você não tem permissão de testar.
 
----
+Rafael Macedo
 
-**Rafael Macedo** · [LinkedIn](https://www.linkedin.com/in/maced0/) · [brechasec.com.br](https://brechasec.com.br/)
+LinkedIn: https://www.linkedin.com/in/maced0/
+
+Site: https://brechasec.com.br/
